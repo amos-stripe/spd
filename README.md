@@ -1,5 +1,7 @@
 # Simple POS application
 
+### Spun off a separate demo from @bnuttin's for Stripe tour with Server Driven integration.
+
 ## The app
 
 The application provides a basic point of sales system, to demonstrate Terminal.
